@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "A. Clymer",
+    "longName": "TV Time",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/TV_Time_Icon.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/TV.png",
+                "name": "TV_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "images/Static_2.png",
+                "name": "STATIC_2_IMAGE",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "TV Time",
+    "uuid": "5731f397-22c0-420c-8987-4f50bbbe4d5f",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
